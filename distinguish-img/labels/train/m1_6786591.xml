@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>m1_6786591.jpg</filename>
+	<path>H:\xiaofangshebei\images\m1_6786591.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ffe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>90</ymin>
+			<xmax>487</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

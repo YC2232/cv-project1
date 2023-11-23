@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2_29228205.jpg</filename>
+	<path>H:\xiaofangshebei\images\2_29228205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ffe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>563</ymin>
+			<xmax>375</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>
