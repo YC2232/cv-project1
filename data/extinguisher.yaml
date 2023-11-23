@@ -20,13 +20,13 @@ train: C:\Users\28482\Desktop\cv-project\cv-project\distinguish-img1\images\trai
 val: C:\Users\28482\Desktop\cv-project\cv-project\distinguish-img1\images\val
 
 nc: 1
-names: ["ffe"]
+#names: ["ffe"]
 #test: # test images (optional)
 #  - images/test2007
 #
 ## Classes
-#names:
-#  0: aeroplane
+names:
+  0: ffe
 #  1: bicycle
 #  2: bird
 #  3: boat
